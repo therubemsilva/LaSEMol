@@ -1,0 +1,13 @@
+residue,number_ballesteros,TM,class,torsions
+D147,3.32,3,acidic,2,
+M151,3.36,3,non-polar,3,
+Y148,3.33,3,polar,3,
+Y326,7.43,7,polar,3,
+W293,6.48,6,non-polar,2,
+I296,6.51,6,non-polar,2,
+I322,7.39,7,non-polar,2,
+V300,6.55,6,non-polar,1,
+H297,6.52,6,basic,2,
+V236,5.42,5,non-polar,3,
+K233,5.39,5,basic,5,
+Q124,2.60,2,polar,,
